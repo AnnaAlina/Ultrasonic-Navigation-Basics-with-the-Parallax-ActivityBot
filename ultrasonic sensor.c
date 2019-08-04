@@ -1,11 +1,3 @@
-/*
-  Detect and Turn from Obstacle.c
-
-  Detect obstacles in the ActivityBot's path, and turn a random direction to avoid them.
-
-  http://learn.parallax.com/activitybot/roaming-ultrasound
-*/
-
 #include "simpletools.h"                      // Include simpletools header
 #include "abdrive360.h"                          // Include abdrive header
 #include "ping.h"                             // Include ping header
